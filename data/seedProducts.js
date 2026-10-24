@@ -1002,9 +1002,9 @@ export const seedProducts = [
     "reviewCount": 56,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://images.unsplash.com/photo-1608248597359-598d1a1154c1?auto=format&fit=crop&w=600&q=80",
+    "image": "https://images.unsplash.com/photo-1519735777090-ec97162dc266?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1608248597359-598d1a1154c1?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1519735777090-ec97162dc266?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "The pioneer of oil-infused salon hair care. Premium antioxidant-rich Argan oil with shine-boosting vitamins conditions, detangles, speeds up blow-drying time and restores elasticity.",
     "benefits": [
@@ -1800,9 +1800,9 @@ export const seedProducts = [
     "reviewCount": 14,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912058/shree-gopi-traders/products/v5/executive-gold-accent-black-hydraulic-styling-chair-front-1786912058140.png",
+    "image": "https://images.unsplash.com/photo-1585515656978-f5f2eb77e9f6?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912058/shree-gopi-traders/products/v5/executive-gold-accent-black-hydraulic-styling-chair-front-1786912058140.png"
+      "https://images.unsplash.com/photo-1585515656978-f5f2eb77e9f6?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Premium heavy-duty cast iron hydraulic pump supports up to 250kg. Reclines up to 135 degrees for shaving and threading with adjustable headrest and 360-degree rotation.",
     "benefits": [
@@ -1876,9 +1876,9 @@ export const seedProducts = [
     "reviewCount": 23,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912087/shree-gopi-traders/products/v5/professional-barber-sectioning-combs-clips-master-kit-front-1786912086968.png",
+    "image": "https://images.unsplash.com/photo-1517832606299-7ae9b720a186?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912087/shree-gopi-traders/products/v5/professional-barber-sectioning-combs-clips-master-kit-front-1786912086968.png"
+      "https://images.unsplash.com/photo-1517832606299-7ae9b720a186?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "High impact ABS plastic 5 slide-out trays that can clip on both sides of the top workstation tray. Smooth 360-degree silent castor wheels.",
     "benefits": [
@@ -1952,9 +1952,9 @@ export const seedProducts = [
     "reviewCount": 12,
     "isFeatured": true,
     "isBestSeller": false,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912054/shree-gopi-traders/products/v5/commercial-double-door-hot-towel-warmer-uv-sterilizer-23l-front-1786912053748.jpg",
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912054/shree-gopi-traders/products/v5/commercial-double-door-hot-towel-warmer-uv-sterilizer-23l-front-1786912053748.jpg"
+      "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Self-contained pipe-less whirlpool jet massage basin with soothing multi-color LED chromatherapy lights and built-in heating element to keep water warm throughout foot spa sessions.",
     "benefits": [
@@ -1990,9 +1990,9 @@ export const seedProducts = [
     "reviewCount": 8,
     "isFeatured": false,
     "isBestSeller": false,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912058/shree-gopi-traders/products/v5/executive-gold-accent-black-hydraulic-styling-chair-front-1786912058140.png",
+    "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912058/shree-gopi-traders/products/v5/executive-gold-accent-black-hydraulic-styling-chair-front-1786912058140.png"
+      "https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Elevate your salon waiting lobby with this chic tufted Scandinavian velvet lounge sofa featuring tapered electroplated gold metal legs.",
     "benefits": [
@@ -2028,9 +2028,9 @@ export const seedProducts = [
     "reviewCount": 19,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912058/shree-gopi-traders/products/v5/executive-gold-accent-black-hydraulic-styling-chair-front-1786912058140.png",
+    "image": "https://images.unsplash.com/photo-1508746829417-e6f548d8d6ed?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912058/shree-gopi-traders/products/v5/executive-gold-accent-black-hydraulic-styling-chair-front-1786912058140.png"
+      "https://images.unsplash.com/photo-1508746829417-e6f548d8d6ed?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Saddle-shaped seat relieves spinal and tailbone pressure during long hours of haircuts, lash applications, and facials. Hydraulic gas lift adjusts height smoothly.",
     "benefits": [
@@ -2066,9 +2066,9 @@ export const seedProducts = [
     "reviewCount": 68,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912028/shree-gopi-traders/products/v5/pure-hyaluronic-acid-hydrating-serum-50ml-glass-bottle-front-1786912027961.png",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912028/shree-gopi-traders/products/v5/pure-hyaluronic-acid-hydrating-serum-50ml-glass-bottle-front-1786912027961.png"
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "India's highest rated professional bridal salon treatment. Enriched with bilberry, glycolic acid and seaweed enzymes to oxygenate cells, fade dark spots and impart a glass-skin bridal radiance.",
     "benefits": [
@@ -2104,9 +2104,9 @@ export const seedProducts = [
     "reviewCount": 39,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976270/shree-gopi-traders/products/v5/activated-charcoal-deep-pore-detox-peel-off-mask-200g-tube-front-1786976269980.png",
+    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976270/shree-gopi-traders/products/v5/activated-charcoal-deep-pore-detox-peel-off-mask-200g-tube-front-1786976269980.png"
+      "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Advanced multi-session cosmeceutical salon kit for intense sun-tan removal, dead cell exfoliation, and cellular revitalization powered by active bio-oxygen technology.",
     "benefits": [
@@ -2142,9 +2142,9 @@ export const seedProducts = [
     "reviewCount": 33,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976272/shree-gopi-traders/products/v5/10-niacinamide-skin-brightening-day-cream-100g-jar-front-1786976271960.png",
+    "image": "https://images.unsplash.com/photo-1598300188614-4d4fb40a2a9a?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976272/shree-gopi-traders/products/v5/10-niacinamide-skin-brightening-day-cream-100g-jar-front-1786976271960.png"
+      "https://images.unsplash.com/photo-1598300188614-4d4fb40a2a9a?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Rapid 30-minute express facial protocol for fast turnaround salon appointments. Enriched with natural milk proteins, lemon fruit acids and honey.",
     "benefits": [
@@ -2332,9 +2332,9 @@ export const seedProducts = [
     "reviewCount": 42,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://images.unsplash.com/photo-1608248597359-598d1a1154c1?auto=format&fit=crop&w=600&q=80",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1608248597359-598d1a1154c1?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Clinically proven specialist formulation combining PurCellin Oil with vitamins A and E, calendula, lavender, rosemary and chamomile oils to improve appearance of scars and stretch marks.",
     "benefits": [
@@ -2370,9 +2370,9 @@ export const seedProducts = [
     "reviewCount": 53,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912035/shree-gopi-traders/products/v5/black-charcoal-detox-stripless-hard-wax-beans-1kg-bag-front-1786912034988.png",
+    "image": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912035/shree-gopi-traders/products/v5/black-charcoal-detox-stripless-hard-wax-beans-1kg-bag-front-1786912034988.png"
+      "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Imported Italian stripless liposoluble hot wax formulated specifically for intimate bikini lines, underarms and sensitive facial areas. Grips the coarsest hair without sticking to living skin cells.",
     "benefits": [
@@ -2674,9 +2674,9 @@ export const seedProducts = [
     "reviewCount": 37,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976714/shree-gopi-traders/products/v5/professional-ultrasonic-facial-skin-scrubber-spatula-front-1786976713437.png",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976714/shree-gopi-traders/products/v5/professional-ultrasonic-facial-skin-scrubber-spatula-front-1786976713437.png"
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Generates neon and argon high-frequency micro-currents that produce purifying ozone gas upon skin contact, instantly killing acne-causing bacteria and calming inflammation.",
     "benefits": [
@@ -2826,9 +2826,9 @@ export const seedProducts = [
     "reviewCount": 25,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912054/shree-gopi-traders/products/v5/commercial-double-door-hot-towel-warmer-uv-sterilizer-23l-front-1786912053748.jpg",
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912054/shree-gopi-traders/products/v5/commercial-double-door-hot-towel-warmer-uv-sterilizer-23l-front-1786912053748.jpg"
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Medical grade ultraviolet ozone sterilization lamp eliminates 99.9% of bacteria, viruses and fungi from salon tools including shears, combs, tweezers and trimmer blades.",
     "benefits": [
@@ -2864,9 +2864,9 @@ export const seedProducts = [
     "reviewCount": 36,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976282/shree-gopi-traders/products/v5/skeleton-t-blade-zero-gap-detail-trimmer-bronze-front-1786976282121.png",
+    "image": "https://images.unsplash.com/photo-1522337094846-8a818192de1f?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976282/shree-gopi-traders/products/v5/skeleton-t-blade-zero-gap-detail-trimmer-bronze-front-1786976282121.png"
+      "https://images.unsplash.com/photo-1522337094846-8a818192de1f?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Extra-wide 1.75-inch mirror-smooth nano titanium plates provide optimal heat conduction up to 450°F (230°C) with instant heat recovery, specially engineered for salon Keratin and Rebonding sealing.",
     "benefits": [
@@ -2902,9 +2902,9 @@ export const seedProducts = [
     "reviewCount": 78,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912039/shree-gopi-traders/products/v5/high-torque-rotary-motor-cordless-barber-hair-clipper-gold-front-1786912038950.png",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786912039/shree-gopi-traders/products/v5/high-torque-rotary-motor-cordless-barber-hair-clipper-gold-front-1786912038950.png"
+      "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "The world's most sought after barber fade clipper. Patented Stagger-Tooth blade crunches hair and creates seamless blends while fading. Lithium-ion battery provides 100+ minutes of continuous cordless run time.",
     "benefits": [
@@ -2941,9 +2941,9 @@ export const seedProducts = [
     "reviewCount": 46,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976282/shree-gopi-traders/products/v5/skeleton-t-blade-zero-gap-detail-trimmer-bronze-front-1786976282121.png",
+    "image": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://res.cloudinary.com/dg8z7pxju/image/upload/v1786976282/shree-gopi-traders/products/v5/skeleton-t-blade-zero-gap-detail-trimmer-bronze-front-1786976282121.png"
+      "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Ferrari-designed brushless motor delivers up to 7200 RPM. Exposed 360-degree zero-gap deep-tooth T-blade provides crisp edge-ups, beard lineups and hair tattoos with unmatched precision.",
     "benefits": [
@@ -3000,6 +3000,91 @@ export const seedProducts = [
       "disinfection jar",
       "sanitation",
       "wholesale"
+    ]
+  },
+  {
+    "name": "Classic Barber Shop Wooden Handle Shaving Razor & Stainless Blades Station Set",
+    "category": "Barber Supplies",
+    "brand": "Grandeur Salon Equipment",
+    "price": 650,
+    "mrp": 1200,
+    "discount": 46,
+    "stock": 50,
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 34,
+    "description": "Traditional straight-edge wooden handle barber razor with replacement blades.",
+    "image": "https://images.unsplash.com/photo-1590439471364-192aa70c0b53?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1590439471364-192aa70c0b53?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "name": "Commercial Heavy Duty Barbershop Cape & Water-Resistant Haircutting Drape",
+    "category": "Barber Supplies",
+    "brand": "ProLuxe Barber Supplies",
+    "price": 499,
+    "mrp": 999,
+    "discount": 50,
+    "stock": 75,
+    "inStock": true,
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "description": "Premium antistatic, water-repellent barber cutting gown with snap button closure.",
+    "image": "https://images.unsplash.com/photo-1634480496353-8d070b4a4cb3?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1634480496353-8d070b4a4cb3?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "name": "L'Oreal Professionnel Serie Expert Absolut Repair Golden Hair Mask (500ml)",
+    "category": "Hair Care",
+    "brand": "L'Oreal Professionnel",
+    "price": 890,
+    "mrp": 1100,
+    "discount": 19,
+    "stock": 35,
+    "inStock": true,
+    "rating": 4.9,
+    "reviewsCount": 52,
+    "description": "Intense resurfacing golden mask infused with Gold Quinoa and Wheat Protein.",
+    "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "name": "Olaplex No. 4 Bond Maintenance Restoring Shampoo (1000ml Salon Backbar)",
+    "category": "Hair Care",
+    "brand": "Olaplex",
+    "price": 3600,
+    "mrp": 4200,
+    "discount": 14,
+    "stock": 20,
+    "inStock": true,
+    "rating": 4.9,
+    "reviewsCount": 68,
+    "description": "Highly nourishing and reparative shampoo that repairs split ends and bond breakage.",
+    "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "name": "Matrix Biolage SmoothProof Anti-Frizz Professional Hair Serum (100ml Pack of 2)",
+    "category": "Hair Care",
+    "brand": "Matrix Biolage",
+    "price": 760,
+    "mrp": 950,
+    "discount": 20,
+    "stock": 40,
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 38,
+    "description": "Infused with Camellia extract to tame frizzy and unmanageable hair all day.",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&w=600&q=80"
     ]
   }
 ];

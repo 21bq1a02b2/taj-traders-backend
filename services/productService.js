@@ -166,14 +166,13 @@ export const getProductByIdService = async (id) => {
 
 export const getCategoriesService = async () => {
   const allCategories = [
-    'Hair Care',
-    'Hair Color & Treatment',
+    'Cosmetics',
     'Makeup',
-    'Salon Furniture',
     'Skin Care',
-    'Waxing',
-    'Professional Equipment',
-    'Barber Supplies',
+    'Hair Care',
+    'Hair Accessories',
+    'Bath & Body',
+    'Beauty Tools',
   ];
 
   if (getIsMongoConnected()) {
