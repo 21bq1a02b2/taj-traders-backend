@@ -7,11 +7,18 @@ import {
 
 export const createOrder = async (req, res) => {
   try {
-    const { customerName, phone, address, city, pincode, items, totalAmount } = req.body;
-    if (!customerName || !phone || !address || !city || !pincode || !items || !items.length) {
+    const { customerName, phone, orderType } = req.body;
+    if (!customerName || !phone) {
       return res.status(400).json({
         success: false,
-        message: 'Please provide all required shipping details and cart items.',
+        message: 'Customer name and phone number are required.',
+      });
+    }
+
+    if (orderType !== 'Wholesale Bulk Quote' && (!req.body.items || !req.body.items.length)) {
+      return res.status(400).json({
+        success: false,
+        message: 'Cart items are required for checkout orders.',
       });
     }
 

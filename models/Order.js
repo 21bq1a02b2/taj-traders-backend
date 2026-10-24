@@ -31,11 +31,11 @@ const orderSchema = new mongoose.Schema(
     },
     address: {
       type: String,
-      required: [true, 'Address is required'],
+      default: '',
     },
     city: {
       type: String,
-      required: [true, 'City is required'],
+      default: '',
     },
     state: {
       type: String,
@@ -43,12 +43,15 @@ const orderSchema = new mongoose.Schema(
     },
     pincode: {
       type: String,
-      required: [true, 'Pincode is required'],
+      default: '',
     },
-    items: [orderItemSchema],
+    items: {
+      type: [orderItemSchema],
+      default: [],
+    },
     subtotal: {
       type: Number,
-      required: true,
+      default: 0,
     },
     shippingFee: {
       type: Number,
@@ -56,16 +59,14 @@ const orderSchema = new mongoose.Schema(
     },
     totalAmount: {
       type: Number,
-      required: true,
+      default: 0,
     },
     paymentMethod: {
       type: String,
-      enum: ['Cash on Delivery', 'UPI Simulation', 'Online Card Simulation', 'WhatsApp Inquiry'],
       default: 'Cash on Delivery',
     },
     orderType: {
       type: String,
-      enum: ['Retail', 'Wholesale Bulk'],
       default: 'Retail',
     },
     status: {
