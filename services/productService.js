@@ -20,7 +20,7 @@ export const getAllProductsService = async (query = {}) => {
     search,
     sort,
     page = 1,
-    limit = 50,
+    limit = 500,
     featured,
     bestseller,
   } = query;
