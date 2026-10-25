@@ -59,12 +59,17 @@ export const getBrands = async (req, res) => {
 
 export const createProduct = async (req, res) => {
   try {
-    const { name, brand, category, price, mrp, image, description } = req.body;
-    if (!name || !brand || !category || !price || !mrp || !image || !description) {
+    const { name, brand, category, price } = req.body;
+    // Accept imageUrl OR image field (admin form sends imageUrl)
+    if (!name || !brand || !category || !price) {
       return res.status(400).json({
         success: false,
-        message: 'Missing required fields: name, brand, category, price, mrp, image, description',
+        message: 'Missing required fields: name, brand, category, price',
       });
+    }
+    // Normalise: if imageUrl is sent, copy it to image so the model is consistent
+    if (req.body.imageUrl && !req.body.image) {
+      req.body.image = req.body.imageUrl;
     }
 
     const newProduct = await createProductService(req.body);

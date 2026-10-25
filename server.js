@@ -58,7 +58,7 @@ app.use((err, req, res, next) => {
   });
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`===============================================`);
   console.log(`💄 Taj Traders Backend running on port ${PORT}`);
   console.log(`🚀 API Base URL: http://localhost:${PORT}`);

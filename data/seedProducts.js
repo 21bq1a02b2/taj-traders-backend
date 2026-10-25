@@ -1800,9 +1800,9 @@ export const seedProducts = [
     "reviewCount": 14,
     "isFeatured": true,
     "isBestSeller": true,
-    "image": "https://images.unsplash.com/photo-1585515656978-f5f2eb77e9f6?auto=format&fit=crop&w=600&q=80",
+    "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1585515656978-f5f2eb77e9f6?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Premium heavy-duty cast iron hydraulic pump supports up to 250kg. Reclines up to 135 degrees for shaving and threading with adjustable headrest and 360-degree rotation.",
     "benefits": [
@@ -2142,9 +2142,9 @@ export const seedProducts = [
     "reviewCount": 33,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://images.unsplash.com/photo-1598300188614-4d4fb40a2a9a?auto=format&fit=crop&w=600&q=80",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1598300188614-4d4fb40a2a9a?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Rapid 30-minute express facial protocol for fast turnaround salon appointments. Enriched with natural milk proteins, lemon fruit acids and honey.",
     "benefits": [
@@ -2332,9 +2332,9 @@ export const seedProducts = [
     "reviewCount": 42,
     "isFeatured": false,
     "isBestSeller": true,
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?auto=format&fit=crop&w=600&q=80",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80"
     ],
     "description": "Clinically proven specialist formulation combining PurCellin Oil with vitamins A and E, calendula, lavender, rosemary and chamomile oils to improve appearance of scars and stretch marks.",
     "benefits": [
@@ -3031,9 +3031,9 @@ export const seedProducts = [
     "rating": 4.9,
     "reviewsCount": 42,
     "description": "Premium antistatic, water-repellent barber cutting gown with snap button closure.",
-    "image": "https://images.unsplash.com/photo-1634480496353-8d070b4a4cb3?auto=format&fit=crop&w=600&q=80",
+    "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1634480496353-8d070b4a4cb3?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=600&q=80"
     ]
   },
   {

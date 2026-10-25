@@ -1,0 +1,21 @@
+[
+  {
+    "name": "hair dryer",
+    "brand": "zara",
+    "category": "Hair Care",
+    "price": 800,
+    "mrp": 900,
+    "stock": 10,
+    "description": "",
+    "imageUrl": "https://www.shop.philips.co.in/cdn/shop/files/1_86c4902d-3089-4b0a-b360-338edd9e44a6.jpg?v=1782813399&width=720",
+    "discount": 10,
+    "moq": 1,
+    "isBestseller": false,
+    "image": "https://www.shop.philips.co.in/cdn/shop/files/1_86c4902d-3089-4b0a-b360-338edd9e44a6.jpg?v=1782813399&width=720",
+    "_id": "cust_1792922048229",
+    "discountPercentage": 11,
+    "createdAt": "2026-10-25T09:54:08.229Z",
+    "updatedAt": "2026-10-25T09:54:08.229Z",
+    "isAdminAdded": true
+  }
+]
